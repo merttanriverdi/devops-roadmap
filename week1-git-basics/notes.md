@@ -23,3 +23,5 @@ A repository is a storage location where your code and its version history live.
 
 - Local rep: Your repository stored on your machine.
 - Remote repo: Repository hosted on platforms like GitHub.
+
+Line from git-advanced-1 branch
