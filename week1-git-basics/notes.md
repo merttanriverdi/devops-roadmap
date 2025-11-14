@@ -25,3 +25,4 @@ A repository is a storage location where your code and its version history live.
 - Remote repo: Repository hosted on platforms like GitHub.
 
 Line from git-advanced-1 branch
+Line from main branch
